@@ -1,1 +1,1 @@
-# Titanic - Different versions of Titanic solutions
+# Titanic - Versions of Titanic kaggle competition solutions
