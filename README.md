@@ -1,1 +1,1 @@
-# Data-Science - Master repository to host all my Data Science/Machine Learning Projects
+# Titanic - Different versions of Titanic solutions
